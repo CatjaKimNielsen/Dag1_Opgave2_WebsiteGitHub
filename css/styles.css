@@ -37,11 +37,13 @@ img {
 
 .header{
     background-color: rgba(173,160,17,0.89);
+    display: flex;
     justify-content: center;
-    align-content: center;
+    align-items: center;
     padding: 20px 0;
 }
 
 .indhold{
+    display: flex;
     justify-content: center;
 }
