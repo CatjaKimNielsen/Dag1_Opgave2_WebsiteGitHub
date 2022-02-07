@@ -39,11 +39,12 @@ img {
     background-color: rgba(173,160,17,0.89);
     display: flex;
     justify-content: center;
-    align-items: center;
-    padding: 20px 0;
+    padding: 10px 0;
 }
 
-.indhold{
+.indhold p{
     display: flex;
     justify-content: center;
+    padding: 10px 0;
 }
+
