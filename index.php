@@ -37,6 +37,10 @@
     <img src="images/github-octocat.png" alt="GitHub cat">
 </div>
 
+<div class="besked">
+    <h2>Din kat den danser tango tango tango...</h2>
+
+</div>
 
 </body>
 </html>

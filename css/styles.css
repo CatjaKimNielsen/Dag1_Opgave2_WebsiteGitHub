@@ -47,4 +47,15 @@ img {
     justify-content: center;
     padding: 10px 0;
 }
+ .indhold img{
+     display: flex;
+     justify-items: center;
 
+ }
+
+ .besked{
+     display: flex;
+     text-align: center;
+     justify-content: center;
+     padding: 50px;
+ }
